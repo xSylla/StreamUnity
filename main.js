@@ -39,6 +39,9 @@ function createWindow() {
     },
   });
 
+  // Remove set menu
+  mainWindow.setMenu(null);
+
   // Set UserAgent
   mainWindow.webContents.setUserAgent(USER_AGENT);
 
