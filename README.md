@@ -5,8 +5,8 @@ StreamUnity is an unofficial wrapper of streamingcommunity for the Linux desktop
 ## Building from source
 
 ```bash
-git clone https://github.com/xSylla/StreamingUnity
-cd StreamingUnity
+git clone https://github.com/xSylla/StreamUnity
+cd StreamUnity
 npm install
 npm run build-linux
 ```
